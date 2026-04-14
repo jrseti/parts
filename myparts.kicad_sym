@@ -675,6 +675,152 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "1812L110_48QR"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "F"
+			(at 0 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1812L110/48QR"
+			(at 0 -5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MyParts:F1812"
+			(at 0 -7.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C19723490.pdf"
+			(at 0 -10.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "LUTE(陆特)"
+			(at 0 -12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "1812L110/48QR"
+			(at 0 -15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C19723490"
+			(at 0 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Resettable Fuses"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "1812L110_48QR_0_1"
+			(rectangle
+				(start -2.54 1.02)
+				(end 2.54 -1.02)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(polyline
+				(pts
+					(xy -2.54 0) (xy 2.54 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "19-213SYGC_S530-E2_TR8"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9530,7 +9676,7 @@
 					(type background)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -5.08 0 0)
 				(length 2.54)
 				(name "1"
@@ -9548,7 +9694,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 5.08 0 180)
 				(length 2.54)
 				(name "2"
@@ -12645,7 +12791,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 34.29 0)
+			(at -2.54 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12653,7 +12799,7 @@
 			)
 		)
 		(property "Value" "STM32G474CET6"
-			(at 0 -34.29 0)
+			(at 13.97 -33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12746,25 +12892,7 @@
 					(type none)
 				)
 			)
-			(pin unspecified line
-				(at -24.13 29.21 0)
-				(length 2.54)
-				(name "VBAT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 26.67 0)
 				(length 2.54)
 				(name "PC13"
@@ -12782,7 +12910,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 24.13 0)
 				(length 2.54)
 				(name "PC14-OSC32_IN"
@@ -12800,7 +12928,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 21.59 0)
 				(length 2.54)
 				(name "PC15-OSC32_OUT"
@@ -12818,7 +12946,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at -24.13 19.05 0)
 				(length 2.54)
 				(name "PF0-OSC_IN"
@@ -12836,7 +12964,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin output line
 				(at -24.13 16.51 0)
 				(length 2.54)
 				(name "PF1-OSC_OUT"
@@ -12854,7 +12982,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at -24.13 13.97 0)
 				(length 2.54)
 				(name "PG10-NRST"
@@ -12872,7 +13000,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 11.43 0)
 				(length 2.54)
 				(name "PA0"
@@ -12890,7 +13018,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 8.89 0)
 				(length 2.54)
 				(name "PA1"
@@ -12908,7 +13036,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 6.35 0)
 				(length 2.54)
 				(name "PA2"
@@ -12926,7 +13054,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 3.81 0)
 				(length 2.54)
 				(name "PA3"
@@ -12944,7 +13072,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 1.27 0)
 				(length 2.54)
 				(name "PA4"
@@ -12962,7 +13090,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 -1.27 0)
 				(length 2.54)
 				(name "PA5"
@@ -12980,7 +13108,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 -3.81 0)
 				(length 2.54)
 				(name "PA6"
@@ -12998,7 +13126,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 -6.35 0)
 				(length 2.54)
 				(name "PA7"
@@ -13016,7 +13144,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 -8.89 0)
 				(length 2.54)
 				(name "PB0"
@@ -13034,7 +13162,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 -11.43 0)
 				(length 2.54)
 				(name "PB1"
@@ -13052,7 +13180,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 -13.97 0)
 				(length 2.54)
 				(name "PB2"
@@ -13070,61 +13198,7 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at -24.13 -16.51 0)
-				(length 2.54)
-				(name "VSSA"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -24.13 -19.05 0)
-				(length 2.54)
-				(name "VREF+"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at -24.13 -21.59 0)
-				(length 2.54)
-				(name "VDDA"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "21"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
+			(pin passive line
 				(at -24.13 -24.13 0)
 				(length 2.54)
 				(name "PB10"
@@ -13142,17 +13216,17 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at -24.13 -26.67 0)
+			(pin power_in line
+				(at -8.89 34.29 270)
 				(length 2.54)
-				(name "VSS"
+				(name "VBAT"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "23"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13160,8 +13234,8 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at -24.13 -29.21 0)
+			(pin power_in line
+				(at -6.35 34.29 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -13178,8 +13252,8 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 24.13 29.21 180)
+			(pin power_in line
+				(at -3.81 34.29 270)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -13196,8 +13270,62 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 24.13 26.67 180)
+			(pin power_in line
+				(at -3.81 -34.29 90)
+				(length 2.54)
+				(name "VSSA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -1.27 34.29 270)
+				(length 2.54)
+				(name "VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -1.27 -34.29 90)
+				(length 2.54)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 1.27 -34.29 90)
 				(length 2.54)
 				(name "VSS"
 					(effects
@@ -13214,7 +13342,61 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin power_in line
+				(at 3.81 -34.29 90)
+				(length 2.54)
+				(name "VSS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 7.62 34.29 270)
+				(length 2.54)
+				(name "VDDA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 10.16 34.29 270)
+				(length 2.54)
+				(name "VREF+"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
 				(at 24.13 24.13 180)
 				(length 2.54)
 				(name "PB9"
@@ -13232,7 +13414,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin input line
 				(at 24.13 21.59 180)
 				(length 2.54)
 				(name "PB8-BOOT0"
@@ -13250,7 +13432,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 19.05 180)
 				(length 2.54)
 				(name "PB7"
@@ -13268,7 +13450,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 16.51 180)
 				(length 2.54)
 				(name "PB6"
@@ -13286,7 +13468,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 13.97 180)
 				(length 2.54)
 				(name "PB5"
@@ -13304,7 +13486,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 11.43 180)
 				(length 2.54)
 				(name "PB4"
@@ -13322,7 +13504,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 8.89 180)
 				(length 2.54)
 				(name "PB3"
@@ -13340,7 +13522,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 6.35 180)
 				(length 2.54)
 				(name "PA15"
@@ -13358,7 +13540,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 3.81 180)
 				(length 2.54)
 				(name "PA14"
@@ -13376,7 +13558,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 1.27 180)
 				(length 2.54)
 				(name "PA13"
@@ -13394,43 +13576,7 @@
 					)
 				)
 			)
-			(pin unspecified line
-				(at 24.13 -1.27 180)
-				(length 2.54)
-				(name "VDD"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
-				(at 24.13 -3.81 180)
-				(length 2.54)
-				(name "VSS"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -6.35 180)
 				(length 2.54)
 				(name "PA12"
@@ -13448,7 +13594,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -8.89 180)
 				(length 2.54)
 				(name "PA11"
@@ -13466,7 +13612,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -11.43 180)
 				(length 2.54)
 				(name "PA10"
@@ -13484,7 +13630,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -13.97 180)
 				(length 2.54)
 				(name "PA9"
@@ -13502,7 +13648,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -16.51 180)
 				(length 2.54)
 				(name "PA8"
@@ -13520,7 +13666,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -19.05 180)
 				(length 2.54)
 				(name "PB15"
@@ -13538,7 +13684,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -21.59 180)
 				(length 2.54)
 				(name "PB14"
@@ -13556,7 +13702,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -24.13 180)
 				(length 2.54)
 				(name "PB13"
@@ -13574,7 +13720,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -26.67 180)
 				(length 2.54)
 				(name "PB12"
@@ -13592,7 +13738,7 @@
 					)
 				)
 			)
-			(pin unspecified line
+			(pin passive line
 				(at 24.13 -29.21 180)
 				(length 2.54)
 				(name "PB11"
