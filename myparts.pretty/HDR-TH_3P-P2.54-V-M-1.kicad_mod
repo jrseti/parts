@@ -1,211 +1,32 @@
-(footprint "HDR-TH_3P-P2.54-V-M-1"
-	(version 20260206)
-	(generator "pcbnew")
-	(generator_version "10.0")
-	(layer "F.Cu")
-	(property "Reference" "REF**"
-		(at 0 -4 0)
-		(layer "F.SilkS")
-		(uuid "9269435c-53c1-444f-81da-5fffe62bdfbe")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Value" "HDR-TH_3P-P2.54-V-M-1"
-		(at 0 4 0)
-		(layer "F.Fab")
-		(uuid "1e2234aa-d9b2-414d-a810-5c9ab54d8f2a")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Datasheet" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "d0d3bb41-7003-4463-ba11-b10f22ac8ea6")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-	(property "Description" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "6826b477-00c6-44c3-b851-e3f4f128756d")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
-	(property "LCSC Part" "C124376"
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "822d2ab5-ce9f-476f-a102-6e7495b72270")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
+(module easyeda2kicad:HDR-TH_3P-P2.54-V-M-1 (layer F.Cu) (tedit 5DC5F6A4)
+	(descr "2.54mm 1*3P")
 	(attr through_hole)
-	(duplicate_pad_numbers_are_jumpers no)
-	(fp_line
-		(start -3.81 -1.27)
-		(end -3.81 1.27)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "6bf70f34-8e1b-4728-856b-834596124531")
+	(fp_text reference REF** (at 0.000 -4.000) (layer F.SilkS)
+		(effects (font (size 1 1) (thickness 0.15)))
 	)
-	(fp_line
-		(start -3.81 1.27)
-		(end 3.81 1.27)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "72f4ed2e-0756-4653-a720-a9a94a2c47ac")
+	(fp_text value HDR-TH_3P-P2.54-V-M-1 (at 0.000 4.000) (layer F.Fab)
+		(effects (font (size 1 1) (thickness 0.15)))
 	)
-	(fp_line
-		(start -1.9 -1.27)
-		(end -3.81 -1.27)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "e5bfebf3-40a7-4b5b-a26a-6f5d1ebc5ccd")
+	(fp_text user %R (at 0 0) (layer F.Fab)
+		(effects (font (size 1 1) (thickness 0.15)))
 	)
-	(fp_line
-		(start 3.81 -1.27)
-		(end -1.9 -1.27)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "9f91fec9-2574-445d-a89c-aee934dcaf39")
-	)
-	(fp_line
-		(start 3.81 1.27)
-		(end 3.81 -1.27)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "7be45a3e-6988-46c5-b6c5-ab09d576031c")
-	)
-	(fp_circle
-		(center -3.81 1.25)
-		(end -3.78 1.25)
-		(stroke
-			(width 0.06)
-			(type solid)
-		)
-		(fill no)
-		(layer "F.SilkS")
-		(uuid "003649c6-b0ba-4d98-bff1-46145d25211c")
-	)
-	(fp_line
-		(start -3.81 -1.25)
-		(end 3.81 -1.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "7cdad3c3-989a-43bd-8b0e-874c190c177f")
-	)
-	(fp_line
-		(start -3.81 1.25)
-		(end -3.81 -1.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "eb68becf-4541-4ad6-a899-cdfddd6c8279")
-	)
-	(fp_line
-		(start 3.81 -1.25)
-		(end 3.81 1.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "e1f2a0cb-ca45-4629-9cae-3b69f5de2227")
-	)
-	(fp_line
-		(start 3.81 1.25)
-		(end -3.81 1.25)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "f4605f00-af42-4b59-a435-cbf756687d1f")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
-		(layer "F.Fab")
-		(uuid "adb884e0-31d3-4f0d-8d58-6363e8a01bee")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(pad "1" thru_hole rect
-		(at -2.54 0)
-		(size 1.575 1.8)
-		(drill 1.199998)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "3378ecb4-1ba0-48db-a3d5-714576e9fabc")
-	)
-	(pad "2" thru_hole circle
-		(at 0 0)
-		(size 1.8 1.8)
-		(drill 1.199998)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "fda7c39f-35d3-42b5-8a37-af07326e60ee")
-	)
-	(pad "3" thru_hole circle
-		(at 2.54 0)
-		(size 1.8 1.8)
-		(drill 1.199998)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "9af5139f-6793-466f-ac3b-73ca9be726f3")
-	)
-	(embedded_fonts no)
-	(model "${MYPARTS}/myparts.3dshapes/HDR-M-2.54_1x3.step"
-		(offset
-			(xyz 2.5 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -0 -0 -0)
-		)
+	(property "LCSC Part" "C49257")
+	(fp_line (start -1.90 -1.27) (end -3.81 -1.27) (layer F.SilkS) (width 0.20))
+	(fp_line (start -3.81 -1.27) (end -3.81 1.27) (layer F.SilkS) (width 0.20))
+	(fp_line (start -3.81 1.27) (end 3.81 1.27) (layer F.SilkS) (width 0.20))
+	(fp_line (start 3.81 1.27) (end 3.81 -1.27) (layer F.SilkS) (width 0.20))
+	(fp_line (start 3.81 -1.27) (end -1.90 -1.27) (layer F.SilkS) (width 0.20))
+	(pad 3 thru_hole circle (at 2.54 0.00 0.00) (size 1.600 1.600) (layers *.Cu *.Mask)(drill 1.100024))
+	(pad 2 thru_hole circle (at 0.00 0.00 0.00) (size 1.600 1.600) (layers *.Cu *.Mask)(drill 1.100024))
+	(pad 1 thru_hole rect (at -2.54 0.00 0.00) (size 1.575 1.600) (layers *.Cu *.Mask)(drill 1.100024))
+	(fp_circle (center -3.81 1.25) (end -3.78 1.25) (layer F.SilkS) (width 0.06))
+	(fp_line (start -3.81 1.25) (end -3.81 -1.25) (layer F.CrtYd) (width 0.05))
+	(fp_line (start -3.81 -1.25) (end 3.81 -1.25) (layer F.CrtYd) (width 0.05))
+	(fp_line (start 3.81 -1.25) (end 3.81 1.25) (layer F.CrtYd) (width 0.05))
+	(fp_line (start 3.81 1.25) (end -3.81 1.25) (layer F.CrtYd) (width 0.05))
+	(model "myparts.3dshapes/HDR-M-2.54_1x3.wrl"
+		(offset (xyz 0.000 0.000 0.000))
+		(scale (xyz 1 1 1))
+		(rotate (xyz 0 0 0))
 	)
 )
