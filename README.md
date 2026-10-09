@@ -8,11 +8,12 @@ To search for part, go to the [JLCPCB Components Search Page](https://jlcpcb.com
 
 You are expected to create a custom parts library for this project using parts from the JLCPCB compnenets.
 
-## Instructions
+## Instructions for a Mac
 
-- In a terminal make sure you are in the virtual environment, as explained in the project [main README page, Prerequisites](../../README.md#prerequisites)
-- cd to "hardware/libs"
-- If you have not already done so" "pip install easyeda2kicad"
+In a terminal make a Python3 virtual environment. 
+ - python3 -n venv .venv
+ - source .venv/bin/activate
+ - pip install -r requirements.txt
 
 Now, look up a part of interest. In this example we will use the LTV-847S chip.
 
@@ -25,15 +26,12 @@ Now, look up a part of interest. In this example we will use the LTV-847S chip.
 
 Run the following command to retrieve the part files:
 
-```
-easyeda2kicad --full --lcsc_id=C114599 --output ./myparts
-```
+python add.py C114599
+
 This will create the following files in the current directory:
 - myparts.kicad_sym (the symbol file)
 - myparts.pretty/SMD-16_L20.0-W6.5-P2.54-LS10.2-BL.kicad_mod (the footprint file)
 - myparts.3dshapes/SMD-16_L20.0-W6.5-P2.54-LS10.2-BL.step (the 3D file)
-
-Sunsequent executions of the command with different LCSC part numbers will append to the same directory and myparts.kicad_sym file.
 
 
 **IMPORTANT** 
@@ -49,16 +47,6 @@ After each part is added you need to:
 - Open the KiCad Schematic Editor, select the part in the schematic, right click and select Library Symbol Properties. In the Footprint field, reselect the footprint from the myparts.pretty library. Save.
 - Note: The last 2 steps are necessary because of a bug, if you don't do this for a part - the 3D footprint will not be associated with the schematic symbol. 
 
-## Hints
 
-You nay get this error when adding a part:
 
-```
-[WARNING] The footprint for this id is already in ./myparts.pretty
-[ERROR] Use --overwrite to replace the older footprint library
-```
-This means a footprint of that type is alread in the library. We need to specify only retrieve the symbol. In this case run:
 
-```
-easyeda2kicad --full --lcsc_id=C114599 --output ./myparts --symbol
-```
