@@ -80,7 +80,7 @@
 	(fp_line (start 8.15 -4.52) (end 8.15 14.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 8.15 14.25) (end -8.15 14.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -8.15 14.25) (end -8.15 -4.52) (layer F.CrtYd) (width 0.05))
-	(model "myparts.3dshapes/USB-A-TH_8P-L14.7-W17.7-H16.0-S5.7.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/USB-A-TH_8P-L14.7-W17.7-H16.0-S5.7.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

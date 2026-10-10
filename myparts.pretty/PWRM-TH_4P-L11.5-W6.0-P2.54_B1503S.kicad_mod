@@ -257,7 +257,7 @@
 		(uuid "cecb5ca1-188a-4fa6-802b-d071e34b9cfe")
 	)
 	(embedded_fonts no)
-	(model "myparts.3dshapes/PWRM-TH_4P-L11.5-W6.0-P2.54_B1503S.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/PWRM-TH_4P-L11.5-W6.0-P2.54_B1503S.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

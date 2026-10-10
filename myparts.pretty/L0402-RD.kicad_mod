@@ -245,7 +245,7 @@
 		(uuid "8bd1df5c-ba92-4537-900c-21f2570ad293")
 	)
 	(embedded_fonts no)
-	(model "myparts.3dshapes/L0402-RD.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/L0402-RD.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

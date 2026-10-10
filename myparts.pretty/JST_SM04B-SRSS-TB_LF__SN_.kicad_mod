@@ -245,7 +245,7 @@
 		(uuid "acb3cf5e-707e-4332-bef6-bb72406cca07")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/jrset/Downloads/SM04B-SRSS-TB_LF__SN_.step"
+	(model "${MYPARTS}/myparts.3dshapes/SM04B-SRSS-TB_LF__SN_.step"
 		(offset
 			(xyz 0 0 -0.25)
 		)

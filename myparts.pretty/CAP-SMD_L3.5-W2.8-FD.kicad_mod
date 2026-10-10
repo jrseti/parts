@@ -24,7 +24,7 @@
 	(fp_line (start 1.75 1.40) (end -1.75 1.40) (layer F.CrtYd) (width 0.05))
 	(fp_poly (pts (xy -2.207184 1.552397) (xy -2.207184 1.340409) (xy -1.749984 1.340409) (xy -1.749984 1.552397) (xy -2.207184 1.552397)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy -1.750009 -1.552397) (xy -1.750009 -1.340409) (xy -2.207209 -1.340409) (xy -2.207209 -1.552397) (xy -1.750009 -1.552397)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "myparts.3dshapes/CAP-SMD_L3.5-W2.8-FD.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/CAP-SMD_L3.5-W2.8-FD.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

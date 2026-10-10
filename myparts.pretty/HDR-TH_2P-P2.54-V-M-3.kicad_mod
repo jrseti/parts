@@ -41,7 +41,7 @@
 	(fp_line (start 2.04 1.27) (end 0.50 1.27) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 0.50 1.27) (end 0.05 0.67) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 0.05 0.67) (end -0.05 0.67) (layer F.CrtYd) (width 0.05))
-	(model "myparts.3dshapes/HDR-TH_2P-P2.54-M-LI-1X2P.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/HDR-TH_2P-P2.54-M-LI-1X2P.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

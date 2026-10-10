@@ -45,7 +45,7 @@
 	(fp_poly (pts (xy -3.849980 3.250133) (xy -4.699991 4.600067) (xy -2.949981 4.600067) (xy -3.849980 3.250133)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy 3.620008 4.600067) (xy 3.920007 4.600067) (xy 3.920007 6.500012) (xy 3.620008 6.500012) (xy 3.620008 4.600067)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
 	(fp_poly (pts (xy 3.770020 3.250108) (xy 2.920009 4.600067) (xy 4.670019 4.600067) (xy 3.770020 3.250108)) (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS"))
-	(model "myparts.3dshapes/CONN-TH_P7.62_KF7620-7.62-2P.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/CONN-TH_P7.62_KF7620-7.62-2P.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

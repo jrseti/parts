@@ -367,7 +367,7 @@
 		(uuid "f5932e6b-7576-4d42-94c4-aa4927f9fb37")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/parts/myparts.3dshapes/HDR-SMD_14P-P1.27_FTSH-107-01-L-DV-K-A.step"
+	(model "${MYPARTS}/myparts.3dshapes/HDR-SMD_14P-P1.27_FTSH-107-01-L-DV-K-A.step"
 		(offset
 			(xyz 0 0 0)
 		)

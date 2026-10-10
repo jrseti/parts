@@ -38,7 +38,7 @@
 	(pad 1 thru_hole circle (at -5.72 -6.47 0.00) (size 1.524 1.524) (layers *.Cu *.Mask)(drill 0.900024))
 	(pad "" thru_hole circle (at 5.71 2.42) (size 3.20 3.20) (drill 3.20) (layers *.Cu *.Mask))
 	(pad "" thru_hole circle (at -5.72 2.42) (size 3.20 3.20) (drill 3.20) (layers *.Cu *.Mask))
-	(model "myparts.3dshapes/RJ45-TH_LPJG0926HENL_C22457393.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/RJ45-TH_LPJG0926HENL_C22457393.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

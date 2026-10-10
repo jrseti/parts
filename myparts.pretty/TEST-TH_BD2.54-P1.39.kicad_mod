@@ -15,7 +15,7 @@
 	(fp_circle (center 0.00 0.00) (end 1.27 0.00) (layer F.SilkS) (width 0.25))
 	(fp_line (start -1.27 0.00) (end 1.27 0.00) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 1.27 0.00) (end -1.27 0.00) (layer F.CrtYd) (width 0.05))
-	(model "myparts.3dshapes/TEST-TH_D2.54-H4.6-P1.39.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/TEST-TH_D2.54-H4.6-P1.39.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

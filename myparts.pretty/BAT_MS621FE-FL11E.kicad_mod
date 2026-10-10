@@ -166,7 +166,7 @@
 		(uuid "cb326a49-77cc-4d59-b718-35bb051f77e1")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/parts/myparts.3dshapes/MS621FE-FL11E.step"
+	(model "${MYPARTS}/myparts.3dshapes/MS621FE-FL11E.step"
 		(offset
 			(xyz 0 0 0)
 		)

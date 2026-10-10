@@ -38,7 +38,7 @@
 	(fp_line (start 8.65 -1.33) (end 8.65 9.03) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 8.65 9.03) (end -8.65 9.03) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -8.65 9.03) (end -8.65 -1.33) (layer F.CrtYd) (width 0.05))
-	(model "myparts.3dshapes/CONN-TH_KF2EDGR-2.54-6P.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/CONN-TH_KF2EDGR-2.54-6P.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))
