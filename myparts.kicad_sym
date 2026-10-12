@@ -8654,7 +8654,7 @@
 					(type none)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at -2.54 -12.7 90)
 				(length 2.54)
 				(name "NC"
@@ -8672,7 +8672,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 0 -12.7 90)
 				(length 2.54)
 				(name "A"
@@ -8690,7 +8690,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at 2.54 -12.7 90)
 				(length 2.54)
 				(name "GND"
@@ -8708,7 +8708,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin open_collector line
 				(at 2.54 12.7 270)
 				(length 2.54)
 				(name "Y"
@@ -8726,7 +8726,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -2.54 12.7 270)
 				(length 2.54)
 				(name "VCC"
@@ -11044,7 +11044,7 @@
 					(type background)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -10.16 2.54 0)
 				(length 2.54)
 				(name "IN"
@@ -11062,7 +11062,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -10.16 0 0)
 				(length 2.54)
 				(name "GND"
@@ -11080,7 +11080,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "EN/~{EN}"
@@ -11098,7 +11098,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin open_collector line
 				(at 10.16 -2.54 180)
 				(length 2.54)
 				(name "~{FAULT}"
@@ -11134,7 +11134,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_out line
 				(at 10.16 2.54 180)
 				(length 2.54)
 				(name "OUT"
@@ -11299,7 +11299,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -11.43 0 0)
 				(length 2.54)
 				(name "VIN"
@@ -11317,7 +11317,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -11.43 -2.54 0)
 				(length 2.54)
 				(name "EN"
@@ -11353,7 +11353,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 8.89 -5.08 180)
 				(length 2.54)
 				(name "FB"
@@ -11389,7 +11389,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at 8.89 0 180)
 				(length 2.54)
 				(name "GND"
@@ -11407,7 +11407,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_out line
 				(at 8.89 2.54 180)
 				(length 2.54)
 				(name "SW"
@@ -11425,7 +11425,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -1.27 -11.43 90)
 				(length 5.08)
 				(name "EP"
@@ -25305,6 +25305,12 @@
 		(embedded_fonts no)
 	)
 	(symbol "FRC0402F3602TS"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -25584,7 +25590,7 @@
 					(type background)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -12.7 5.08 0)
 				(length 5.08)
 				(name "VCC"
@@ -25602,7 +25608,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -12.7 2.54 0)
 				(length 5.08)
 				(name "Sel"
@@ -25656,7 +25662,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -12.7 -5.08 0)
 				(length 5.08)
 				(name "GND"
@@ -25746,7 +25752,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 12.7 5.08 180)
 				(length 5.08)
 				(name "~{OE}"
@@ -43130,7 +43136,7 @@
 					(type none)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -20.32 10.16 0)
 				(length 2.54)
 				(name "GND"
@@ -43148,7 +43154,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at -20.32 7.62 0)
 				(length 2.54)
 				(name "TXD"
@@ -43166,7 +43172,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -20.32 5.08 0)
 				(length 2.54)
 				(name "RXD"
@@ -43184,7 +43190,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at -20.32 2.54 0)
 				(length 2.54)
 				(name "TIMEPULSE"
@@ -43202,7 +43208,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -20.32 0 0)
 				(length 2.54)
 				(name "EXTINT"
@@ -43220,7 +43226,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -20.32 -2.54 0)
 				(length 2.54)
 				(name "V_BCKP"
@@ -43238,7 +43244,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -20.32 -5.08 0)
 				(length 2.54)
 				(name "V_IO"
@@ -43256,7 +43262,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -20.32 -7.62 0)
 				(length 2.54)
 				(name "VCC"
@@ -43274,7 +43280,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -20.32 -10.16 0)
 				(length 2.54)
 				(name "RESET_N"
@@ -43292,7 +43298,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at 20.32 -10.16 180)
 				(length 2.54)
 				(name "GND"
@@ -43310,7 +43316,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 20.32 -7.62 180)
 				(length 2.54)
 				(name "RF_IN"
@@ -43328,7 +43334,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at 20.32 -5.08 180)
 				(length 2.54)
 				(name "GND"
@@ -43346,7 +43352,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at 20.32 -2.54 180)
 				(length 2.54)
 				(name "LNA_EN"
@@ -43364,7 +43370,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_out line
 				(at 20.32 0 180)
 				(length 2.54)
 				(name "VCC_RF"
@@ -43382,7 +43388,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 20.32 2.54 180)
 				(length 2.54)
 				(name "VIO_SEL"
@@ -43400,7 +43406,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 20.32 5.08 180)
 				(length 2.54)
 				(name "SDA"
@@ -43418,7 +43424,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 20.32 7.62 180)
 				(length 2.54)
 				(name "SCL"
@@ -43436,7 +43442,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 20.32 10.16 180)
 				(length 2.54)
 				(name "SAFEBOOT_N"
@@ -44402,7 +44408,7 @@
 			)
 		)
 		(symbol "MX26631DL_1_1"
-			(pin passive line
+			(pin power_in line
 				(at -13.97 0 0)
 				(length 2.54)
 				(name "IN"
@@ -44420,7 +44426,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -13.97 -2.54 0)
 				(length 2.54)
 				(name "IN"
@@ -49202,6 +49208,7 @@
 		)
 		(pin_names
 			(offset 0)
+			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49244,7 +49251,7 @@
 		(property "Datasheet" "${MYPARTS_DATASHEETS}/SMBJ18CA.pdf"
 			(at 0 0 0)
 			(show_name no)
-			(do_not_autoplace no)
+			(do_not_autoplace yes)
 			(hide yes)
 			(effects
 				(font
@@ -58213,7 +58220,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -12.7 0 0)
 				(length 2.54)
 				(name "GND"
@@ -58267,7 +58274,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 12.7 -5.08 180)
 				(length 2.54)
 				(name "N.C."
@@ -58285,7 +58292,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 12.7 -2.54 180)
 				(length 2.54)
 				(name "N.C."
@@ -58303,7 +58310,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at 12.7 0 180)
 				(length 2.54)
 				(name "GND"
@@ -58321,7 +58328,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 12.7 2.54 180)
 				(length 2.54)
 				(name "N.C."
@@ -58339,7 +58346,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin no_connect line
 				(at 12.7 5.08 180)
 				(length 2.54)
 				(name "N.C."
@@ -60523,7 +60530,7 @@
 					(type none)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 19.05 180)
 				(length 2.54)
 				(name "USBDM_DN1/PRT_DIS_M1"
@@ -60541,7 +60548,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 16.51 180)
 				(length 2.54)
 				(name "USBDP_DN1/PRT_DIS_P1"
@@ -60559,7 +60566,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 7.62 180)
 				(length 2.54)
 				(name "USBDM_DN2/PRT_DIS_M2"
@@ -60577,7 +60584,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 5.08 180)
 				(length 2.54)
 				(name "USBDP_DN2/PRT_DIS_P2"
@@ -60595,7 +60602,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -13.97 27.94 270)
 				(length 2.54)
 				(name "VDDA33"
@@ -60613,7 +60620,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 -3.81 180)
 				(length 2.54)
 				(name "USBDM_DN3/PRT_DIS_M3"
@@ -60631,7 +60638,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 -6.35 180)
 				(length 2.54)
 				(name "USBDP_DN3/PRT_DIS_P3"
@@ -60649,7 +60656,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 -15.24 180)
 				(length 2.54)
 				(name "USBDM_DN4/PRT_DIS_M4"
@@ -60667,7 +60674,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at 33.02 -17.78 180)
 				(length 2.54)
 				(name "USBDP_DN4/PRT_DIS_P4"
@@ -60685,7 +60692,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -11.43 27.94 270)
 				(length 2.54)
 				(name "VDDA33"
@@ -60703,7 +60710,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -34.29 8.89 0)
 				(length 2.54)
 				(name "TEST"
@@ -60721,7 +60728,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at 33.02 13.97 180)
 				(length 2.54)
 				(name "PRTPWR1/BC_EN1"
@@ -60739,7 +60746,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 33.02 11.43 180)
 				(length 2.54)
 				(name "OCS_N1"
@@ -60775,7 +60782,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at 0 27.94 270)
 				(length 2.54)
 				(name "VDD33"
@@ -60793,7 +60800,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at 33.02 2.54 180)
 				(length 2.54)
 				(name "PRTPWR2/BC_EN2"
@@ -60811,7 +60818,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 33.02 0 180)
 				(length 2.54)
 				(name "OCS_N2"
@@ -60829,7 +60836,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at 33.02 -8.89 180)
 				(length 2.54)
 				(name "PRTPWR3/BC_EN3"
@@ -60847,7 +60854,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 33.02 -11.43 180)
 				(length 2.54)
 				(name "OCS_N3"
@@ -60865,7 +60872,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at 33.02 -20.32 180)
 				(length 2.54)
 				(name "PRTPWR4/BC_EN4"
@@ -60883,7 +60890,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at 33.02 -22.86 180)
 				(length 2.54)
 				(name "OCS_N4"
@@ -60901,7 +60908,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at -34.29 -17.78 0)
 				(length 2.54)
 				(name "SDA/SMBBATA/NON_REM1"
@@ -60919,7 +60926,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at 2.54 27.94 270)
 				(length 2.54)
 				(name "VDD33"
@@ -60937,7 +60944,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at -34.29 -15.24 0)
 				(length 2.54)
 				(name "SCL/SMBCLK/CFG_SEL0"
@@ -60955,7 +60962,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at -34.29 -22.86 0)
 				(length 2.54)
 				(name "HS_IND/CFG_SEL1"
@@ -60973,7 +60980,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -34.29 11.43 0)
 				(length 2.54)
 				(name "RESET_N"
@@ -60991,7 +60998,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -34.29 21.59 0)
 				(length 2.54)
 				(name "VBUS_DET"
@@ -61009,7 +61016,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at -34.29 -20.32 0)
 				(length 2.54)
 				(name "SUSP_IND/LOCAL_PWR/NON_REM0"
@@ -61027,7 +61034,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -8.89 27.94 270)
 				(length 2.54)
 				(name "VDDA33"
@@ -61045,7 +61052,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at -34.29 19.05 0)
 				(length 2.54)
 				(name "USBDM_UP"
@@ -61063,7 +61070,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin bidirectional line
 				(at -34.29 16.51 0)
 				(length 2.54)
 				(name "USBDP_UP"
@@ -61081,7 +61088,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin output line
 				(at -34.29 -2.54 0)
 				(length 2.54)
 				(name "XTALOUT"
@@ -61099,7 +61106,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin input line
 				(at -34.29 0 0)
 				(length 2.54)
 				(name "XTALIN/CLKIN"
@@ -61153,7 +61160,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -6.35 27.94 270)
 				(length 2.54)
 				(name "VDDA33"
@@ -61171,7 +61178,7 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin power_in line
 				(at -1.27 -27.94 90)
 				(length 2.54)
 				(name "EP"
