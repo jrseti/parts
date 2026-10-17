@@ -36,7 +36,7 @@
 	(fp_line (start 9.22 -3.13) (end 9.22 3.43) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 9.22 3.43) (end -9.22 3.43) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -9.22 3.43) (end -9.22 -3.13) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/CONN-TH_7P-P2.54_KF128-2.54-7P.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/CONN-TH_7P-P2.54_KF128-2.54-7P.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

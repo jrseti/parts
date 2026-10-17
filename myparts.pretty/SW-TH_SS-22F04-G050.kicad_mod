@@ -44,7 +44,7 @@
 	(fp_line (start -6.70 -4.35) (end 6.70 -4.35) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 6.70 -4.35) (end 6.70 4.35) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 6.70 4.35) (end -6.70 4.35) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/SW-TH_SS-22F04-G050.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/SW-TH_SS-22F04-G050.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

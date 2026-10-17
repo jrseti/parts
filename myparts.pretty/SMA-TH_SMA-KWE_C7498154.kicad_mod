@@ -36,7 +36,7 @@
 	(fp_line (start -11.63 -2.98) (end 2.97 -2.98) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.97 -2.98) (end 2.97 3.02) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.97 3.02) (end -11.63 3.02) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/SMA-TH_SMA-KWE_C7498154.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/SMA-TH_SMA-KWE_C7498154.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

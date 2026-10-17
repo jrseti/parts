@@ -34,7 +34,7 @@
 	(fp_line (start -8.75 -5.00) (end 4.25 -5.00) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.25 -5.00) (end 4.25 5.00) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.25 5.00) (end -8.75 5.00) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/DC-IN-TH_HX-DC007B-2.5.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/DC-IN-TH_HX-DC007B-2.5.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 270))

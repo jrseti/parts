@@ -37,7 +37,7 @@
 	(fp_line (start -4.85 -5.05) (end 4.85 -5.05) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.85 -5.05) (end 4.85 5.05) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.85 5.05) (end -4.85 5.05) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/SMD-18_L10.1-W9.7-P1.10-TL_SKG09F.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/SMD-18_L10.1-W9.7-P1.10-TL_SKG09F.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 90))

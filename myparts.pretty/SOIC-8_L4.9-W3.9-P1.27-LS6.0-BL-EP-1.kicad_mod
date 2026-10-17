@@ -340,7 +340,7 @@
 		(uuid "a5c8a511-d346-44a4-b108-a08dab19c084")
 	)
 	(embedded_fonts no)
-	(model "${MYPARTS}/myparts.3dshapes/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1.step"
 		(offset
 			(xyz 0 0 0)
 		)

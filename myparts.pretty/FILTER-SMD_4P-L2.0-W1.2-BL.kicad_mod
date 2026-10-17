@@ -167,7 +167,7 @@
 		(uuid "06c32c8e-0e42-4bba-9845-ddb7598ca7ff")
 	)
 	(embedded_fonts no)
-	(model "${MYPARTS}/myparts.3dshapes/SMD-4_L2.0-W1.2-H1.3.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/SMD-4_L2.0-W1.2-H1.3.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -49,7 +49,7 @@
 	(fp_line (start -4.45 -1.72) (end 4.44 -1.72) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.44 -1.72) (end 4.44 1.71) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 4.44 1.71) (end -4.45 1.71) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/HDR-SMD_14P-P1.27_FTSH-107-01-L-DV-K-A.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/HDR-SMD_14P-P1.27_FTSH-107-01-L-DV-K-A.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

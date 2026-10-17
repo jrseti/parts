@@ -30,7 +30,7 @@
 	(fp_line (start -2.93 -3.75) (end 2.92 -3.75) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.92 -3.75) (end 2.92 3.75) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.92 3.75) (end -2.93 3.75) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/SOIC-8_L7.5-W5.9-P1.27-LS11.5-BL.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/SOIC-8_L7.5-W5.9-P1.27-LS11.5-BL.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 270))

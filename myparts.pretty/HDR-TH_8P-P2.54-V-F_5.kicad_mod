@@ -27,7 +27,7 @@
 	(fp_line (start -10.26 -1.21) (end 10.26 -1.21) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 10.26 -1.21) (end 10.26 1.21) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 10.26 1.21) (end -10.26 1.21) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/HDR-TH_8P-P2.54-V-F_5.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/HDR-TH_8P-P2.54-V-F_5.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

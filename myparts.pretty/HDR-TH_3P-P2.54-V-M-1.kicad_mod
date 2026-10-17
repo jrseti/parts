@@ -24,7 +24,7 @@
 	(fp_line (start -3.81 -1.25) (end 3.81 -1.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 3.81 -1.25) (end 3.81 1.25) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 3.81 1.25) (end -3.81 1.25) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/HDR-M-2.54_1x3.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/HDR-M-2.54_1x3.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

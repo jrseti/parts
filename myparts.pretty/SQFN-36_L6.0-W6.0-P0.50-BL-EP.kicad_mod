@@ -62,7 +62,7 @@
 	(fp_line (start -3.00 -3.00) (end 3.00 -3.00) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 3.00 -3.00) (end 3.00 3.00) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 3.00 3.00) (end -3.00 3.00) (layer F.CrtYd) (width 0.05))
-	(model "${MYPARTS}/myparts.3dshapes/SQFN-36_L6.0-W6.0-H0.9-P0.50.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/SQFN-36_L6.0-W6.0-H0.9-P0.50.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

@@ -485,7 +485,7 @@
 		(uuid "1aef9362-8fd8-4f28-a0f3-5f0f54cf63ab")
 	)
 	(embedded_fonts no)
-	(model "${MYPARTS}/myparts.3dshapes/LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50.step"
 		(offset
 			(xyz 0 0 0)
 		)

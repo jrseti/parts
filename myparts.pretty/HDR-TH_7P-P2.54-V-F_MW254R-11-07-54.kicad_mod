@@ -229,7 +229,7 @@
 		(uuid "c6ac789b-b317-4340-ab85-2e255b3e7c95")
 	)
 	(embedded_fonts no)
-	(model "${MYPARTS}/myparts.3dshapes/HDR-TH_7P-P2.54-V-F_MW254R-11-07-54.wrl"
+	(model "${MYPARTS}/myparts.3dshapes/HDR-TH_7P-P2.54-V-F_MW254R-11-07-54.step"
 		(offset
 			(xyz 0 0 0)
 		)
