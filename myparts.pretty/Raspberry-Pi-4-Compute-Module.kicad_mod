@@ -275,14 +275,4 @@
     (solder_mask_margin 1.7) (clearance 1.7) (tstamp c2c1d247-2c20-4b1e-a5d1-8d71cf195ab3))
   (pad "" np_thru_hole circle (at 33 -48) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask)
     (solder_mask_margin 1.7) (clearance 1.7) (tstamp 24644d5b-8a8d-4e6c-81de-1d29e1b2cf87))
-  (model "${MYPARTS}/myparts.3dshapes/DF40C-100DS.stp"
-    (offset (xyz -0.46 15.38 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
-  (model "${MYPARTS}/myparts.3dshapes/DF40C-100DS.stp"
-    (offset (xyz 33.46 15.38 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )
