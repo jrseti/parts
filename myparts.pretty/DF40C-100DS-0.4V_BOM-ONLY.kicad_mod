@@ -1,0 +1,101 @@
+(footprint "DF40C-100DS-0.4V_BOM-ONLY"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Hirose DF40C-100DS-0.4V(51) receptacle, BOM and placement only: the copper pads belong to the CM4 footprint (A2). Origin at the receptacle centre, long axis along X, pin 1 at the lower-left corner.")
+	(tags "DF40 CM4 receptacle bom-only")
+	(property "Reference" "REF**"
+		(at 0 -2.6 0)
+		(layer "F.Fab")
+		(uuid "7b5a5f2e-4b7e-4c4a-9d2a-0d9b4c1a0001")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "DF40C-100DS-0.4V(51)"
+		(at 0 2.6 0)
+		(layer "F.Fab")
+		(uuid "7b5a5f2e-4b7e-4c4a-9d2a-0d9b4c1a0002")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b5a5f2e-4b7e-4c4a-9d2a-0d9b4c1a0003")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b5a5f2e-4b7e-4c4a-9d2a-0d9b4c1a0004")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -11.5 -1.5)
+		(end 11.5 1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "7b5a5f2e-4b7e-4c4a-9d2a-0d9b4c1a0005")
+	)
+	(fp_poly
+		(pts
+			(xy -11.5 1.5) (xy -10.5 1.5) (xy -11.5 0.5)
+		)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "7b5a5f2e-4b7e-4c4a-9d2a-0d9b4c1a0006")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7b5a5f2e-4b7e-4c4a-9d2a-0d9b4c1a0007")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(model "${MYPARTS}/myparts.3dshapes/DF40C-100DS.stp"
+		(offset
+			(xyz 6.12 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+	(embedded_fonts no)
+)
