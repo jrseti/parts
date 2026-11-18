@@ -1,5 +1,5 @@
-(module easyeda2kicad:SW-SMD_DSHP02TSGER (layer F.Cu) (tedit 5DC5F6A4)
-	(attr through_hole)
+(module SOP127P835X250-4N (layer F.Cu) (tedit 5DC5F6A4)
+	(attr smd)
 	(fp_text reference REF** (at 0.000 -7.810) (layer F.SilkS)
 		(effects (font (size 1 1) (thickness 0.15)))
 	)
