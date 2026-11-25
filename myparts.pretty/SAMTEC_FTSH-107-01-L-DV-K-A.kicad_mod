@@ -1,4 +1,4 @@
-(footprint "SAMTEC_FTSH-107-01-L-DV-K-A"
+(footprint "Samtec_FTSH-107-01-L-DV-K-A"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "SAMTEC_FTSH-107-01-L-DV-K-A"
+	(property "Value" "Samtec_FTSH-107-01-L-DV-K-A"
 		(at 12.065 5.145 0)
 		(layer "F.Fab")
 		(uuid "7e85e52d-4277-483f-bfc1-2ed72abedeb0")
@@ -328,63 +328,63 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "24dff20c-4cb8-4cbc-9e1f-738fe7193cad")
 	)
-	(pad "1" smd rect
+	(pad "01" smd rect
 		(at -3.81 2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "41843343-5feb-446d-964d-8f7134ebf1ae")
 	)
-	(pad "2" smd rect
+	(pad "02" smd rect
 		(at -3.81 -2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "e9a2b4a9-9d24-43a9-aa82-b6ccb68d30df")
 	)
-	(pad "3" smd rect
+	(pad "03" smd rect
 		(at -2.54 2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "c7d0e0ea-e035-4bf7-a9f1-d1df203a3d34")
 	)
-	(pad "4" smd rect
+	(pad "04" smd rect
 		(at -2.54 -2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "043f3827-ad5b-408e-9b5b-959c5876c094")
 	)
-	(pad "5" smd rect
+	(pad "05" smd rect
 		(at -1.27 2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "09c0934e-62a9-4f5a-bd78-6077db1d80d9")
 	)
-	(pad "6" smd rect
+	(pad "06" smd rect
 		(at -1.27 -2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "84b309f7-5be2-45a8-86df-f64ed0d7e474")
 	)
-	(pad "7" smd rect
+	(pad "07" smd rect
 		(at 0 2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "872761bd-873c-4acb-aafe-7bedf982eb2d")
 	)
-	(pad "8" smd rect
+	(pad "08" smd rect
 		(at 0 -2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(solder_mask_margin 0.102)
 		(uuid "d66394ec-33a1-4ff5-97d8-10acdd19c200")
 	)
-	(pad "9" smd rect
+	(pad "09" smd rect
 		(at 1.27 2.035)
 		(size 0.74 2.79)
 		(layers "F.Cu" "F.Mask" "F.Paste")

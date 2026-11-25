@@ -34,7 +34,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -268,7 +268,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -478,7 +478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -687,7 +687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -883,7 +883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1079,7 +1079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1275,7 +1275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1471,7 +1471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1665,7 +1665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1861,7 +1861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2057,7 +2057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2253,7 +2253,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2449,7 +2449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2645,7 +2645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2841,7 +2841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3035,7 +3035,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3231,7 +3231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3427,7 +3427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3623,7 +3623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3819,7 +3819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4015,7 +4015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4211,7 +4211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4407,7 +4407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4602,7 +4602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4811,7 +4811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5007,7 +5007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5203,7 +5203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5399,7 +5399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5595,7 +5595,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5784,7 +5784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5956,7 +5956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6152,7 +6152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6347,7 +6347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6541,7 +6541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6737,7 +6737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6933,7 +6933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7129,7 +7129,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7318,7 +7318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7490,7 +7490,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7686,7 +7686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7881,7 +7881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8100,7 +8100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0805"
+		(property "Footprint" "MyParts:CAPC2012X145N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8330,7 +8330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LED0805-R-RD"
+		(property "Footprint" "MyParts:LEDC2012X110N"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8562,7 +8562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0805"
+		(property "Footprint" "MyParts:RESC2012X60N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8749,7 +8749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_2P-P1.27-V-M"
+		(property "Footprint" "MyParts:PinHeader_1x02_P1.27mm_Vertical"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8911,7 +8911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C1206"
+		(property "Footprint" "MyParts:CAPC3216X180N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9124,7 +9124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1206"
+		(property "Footprint" "MyParts:FUSC3216X110N"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9326,7 +9326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1206"
+		(property "Footprint" "MyParts:FUSC3216X110N"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9534,7 +9534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R1206"
+		(property "Footprint" "MyParts:RESC3216X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9727,7 +9727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R1206"
+		(property "Footprint" "MyParts:RESC3216X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9920,7 +9920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R1206"
+		(property "Footprint" "MyParts:RESC3216X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10113,7 +10113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R1206"
+		(property "Footprint" "MyParts:RESC3216X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10284,7 +10284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R1206"
+		(property "Footprint" "MyParts:RESC3216X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10471,7 +10471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1812"
+		(property "Footprint" "MyParts:FUSC4532X200N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10648,7 +10648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1812"
+		(property "Footprint" "MyParts:FUSC4532X200N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10803,7 +10803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1812"
+		(property "Footprint" "MyParts:FUSC4532X200N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10980,7 +10980,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LED-SMD_L1.6-W0.8-FD_GREEN"
+		(property "Footprint" "MyParts:LEDC1608X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11192,7 +11192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOD-323_L1.8-W1.3-LS2.5-RD"
+		(property "Footprint" "MyParts:SOD2513X110N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11370,7 +11370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_2P-P2.54-V-M-1"
+		(property "Footprint" "MyParts:PinHeader_1x02_P2.54mm_Vertical"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11546,7 +11546,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_3P-P2.54-V-M-1"
+		(property "Footprint" "MyParts:PinHeader_1x03_P2.54mm_Vertical"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11746,7 +11746,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R2512"
+		(property "Footprint" "MyParts:RESC6332X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11933,7 +11933,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_24P-P2.54-V-M-R2-C12-S2.54"
+		(property "Footprint" "MyParts:PinHeader_2x12_P2.54mm_Vertical"
 			(at 0 -21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12505,7 +12505,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_7P-P2.54-V-F_MW254R-11-07-54"
+		(property "Footprint" "MyParts:PinSocket_1x07_P2.54mm_Vertical"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12760,7 +12760,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_8P-P2.54-V-F_5"
+		(property "Footprint" "MyParts:PinSocket_1x08_P2.54mm_Vertical"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13039,7 +13039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:FUSE-TH_4P-L19.8-W6.7_3557-2"
+		(property "Footprint" "MyParts:Keystone_3557-2"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13252,7 +13252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:USB-A-TH_MOLEX_484060003"
+		(property "Footprint" "MyParts:Molex_48406-0003"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13734,7 +13734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:TEST-TH_BD2.54-P1.39"
+		(property "Footprint" "MyParts:Keystone_5003"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13892,7 +13892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SC-88A_L2.0-W1.3-P0.65-LS2.1-BL"
+		(property "Footprint" "MyParts:SOT65P210X110-5N"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14124,7 +14124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:SC-88A_L2.0-W1.3-P0.65-LS2.1-BL"
+		(property "Footprint" "MyParts:SOT65P210X110-5N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14345,7 +14345,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:OSC-SMD_4P-L3.2-W2.5-BL-OXETDLJANF-0.032768MHZ"
+		(property "Footprint" "MyParts:OSCCC320X250X80-4N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14698,7 +14698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CRYSTAL-SMD_L5.0-W3.2-1-A"
+		(property "Footprint" "MyParts:XTAL500X320X130N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14871,7 +14871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0805"
+		(property "Footprint" "MyParts:RESC2012X60N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15058,7 +15058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:IND-SMD_4P-L4.5-W3.2-TL"
+		(property "Footprint" "MyParts:TDK_ACT45B"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15344,7 +15344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-20_L13.0-W7.6-P1.27-LS10.3-BL"
+		(property "Footprint" "MyParts:SOIC127P1030X265-20N"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15850,7 +15850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P10.00mm"
+		(property "Footprint" "MyParts:CAPRD1000W55L820T450"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16063,7 +16063,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:IND-SMD_L3.0-W3.0-1"
+		(property "Footprint" "MyParts:INDM3030X150N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16276,7 +16276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+		(property "Footprint" "MyParts:SOT95P240X110-3N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16580,7 +16580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+		(property "Footprint" "MyParts:SOT95P280X110-3N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16886,7 +16886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+		(property "Footprint" "MyParts:SOT95P280X145-6N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17134,7 +17134,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1"
+		(property "Footprint" "MyParts:SOIC127P600X170-9N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17436,7 +17436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL-EP-1"
+		(property "Footprint" "MyParts:SOIC127P600X170-9N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17738,7 +17738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:PWRM-TH_B0505S-1WR3"
+		(property "Footprint" "MyParts:EVISUN_B0505S-1WR3"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18005,7 +18005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:PWRM-TH_4P-L11.5-W6.0-P2.54_B1503S"
+		(property "Footprint" "MyParts:YLPTEC_B1205S-1WR3"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18272,7 +18272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+		(property "Footprint" "MyParts:SOT95P280X110-3N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18504,7 +18504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+		(property "Footprint" "MyParts:SOT95P280X110-3N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18736,7 +18736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOD-323_L1.6-W1.3-LS2.6-RD"
+		(property "Footprint" "MyParts:SOD2513X110N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18938,7 +18938,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L0402"
+		(property "Footprint" "MyParts:INDC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19181,7 +19181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L0402"
+		(property "Footprint" "MyParts:INDC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19416,7 +19416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L0402"
+		(property "Footprint" "MyParts:INDC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19657,7 +19657,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L0603"
+		(property "Footprint" "MyParts:INDC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19892,7 +19892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L0603"
+		(property "Footprint" "MyParts:INDC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20130,7 +20130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L0603"
+		(property "Footprint" "MyParts:INDC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20365,7 +20365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L1206"
+		(property "Footprint" "MyParts:INDC3216X130N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20600,7 +20600,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L1206"
+		(property "Footprint" "MyParts:INDC3216X130N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20835,7 +20835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:PG-TDSON-8_L5.0-W6.0-P1.27-LS6.2-BL-EP"
+		(property "Footprint" "MyParts:SON127P615X515X120-9N"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21148,7 +21148,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1206"
+		(property "Footprint" "MyParts:FUSC3216X110N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21328,7 +21328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1206"
+		(property "Footprint" "MyParts:FUSC3216X110N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21508,7 +21508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1812"
+		(property "Footprint" "MyParts:FUSC4532X200N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21690,7 +21690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "MyParts:SOT95P237X112-3N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22032,7 +22032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOD-123_L2.7-W1.6-LS3.7-RD"
+		(property "Footprint" "MyParts:SOD3716X135N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22245,7 +22245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOD-123_L2.7-W1.6-LS3.7-RD"
+		(property "Footprint" "MyParts:SOD3716X135N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22464,7 +22464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22689,7 +22689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CAP-TH_L13.0-W6.0-P10.00-D1.2"
+		(property "Footprint" "MyParts:CAPRR1000W65L1340T640H1240"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22913,7 +22913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L5.9-W7.5-P1.27-LS11.5-BL"
+		(property "Footprint" "MyParts:SOIC127P1150X280-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23197,7 +23197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CAP-SMD_L3.5-W2.8-FD"
+		(property "Footprint" "MyParts:CAPMP3528X210N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23447,7 +23447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CAP-SMD_L3.5-W2.8-R-RD"
+		(property "Footprint" "MyParts:CAPMP3528X210N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23695,7 +23695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23974,7 +23974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24205,7 +24205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24435,7 +24435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24667,7 +24667,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24875,7 +24875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25107,7 +25107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25309,7 +25309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25539,7 +25539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25773,7 +25773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25983,7 +25983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26193,7 +26193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26401,7 +26401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26635,7 +26635,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26837,7 +26837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0805"
+		(property "Footprint" "MyParts:CAPC2012X145N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27045,7 +27045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0805"
+		(property "Footprint" "MyParts:CAPC2012X145N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27269,7 +27269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C1206"
+		(property "Footprint" "MyParts:CAPC3216X180N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27471,7 +27471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:IND-SMD_L7.2-W6.6_GPSR07X0"
+		(property "Footprint" "MyParts:INDM7066X300N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27695,7 +27695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:Raspberry-Pi-4-Compute-Module"
+		(property "Footprint" "MyParts:RaspberryPi_CM4_CM5"
 			(at 142.24 -26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31463,7 +31463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:Raspberry-Pi-4-Compute-Module"
+		(property "Footprint" "MyParts:RaspberryPi_CM4_CM5"
 			(at 142.24 -26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35231,7 +35231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_DC-005-2.5A-2.0"
+		(property "Footprint" "MyParts:XKB_DC-005-2.5A-2.0"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35476,7 +35476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:DC-IN-TH_HX-DC007B-2.5"
+		(property "Footprint" "MyParts:ShouHan_DC007B-2.5"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35767,7 +35767,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:DF40C-100DS-0.4V_BOM-ONLY"
+		(property "Footprint" "MyParts:Hirose_DF40C-100DS-0.4V_BOM-ONLY"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35904,7 +35904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:DFN-8_L3.3-W3.3-P0.65-BL"
+		(property "Footprint" "MyParts:SON65P310X310X90-5N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36233,7 +36233,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "MyParts:SOT230P700X180-4N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36842,7 +36842,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SW-SMD_8P-L6.7-W5.4-P1.27-LS8.4"
+		(property "Footprint" "MyParts:Kingtek_DSHP04TSGET"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37406,7 +37406,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:USB-A-TH_USB-M-51"
+		(property "Footprint" "MyParts:JingExtension_907-111A1022D10200"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37697,7 +37697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LED0805-R-RD"
+		(property "Footprint" "MyParts:LEDC2012X110N"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37931,7 +37931,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D"
+		(property "Footprint" "MyParts:CAPMP7343X310N"
 			(at 0.9652 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38166,7 +38166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CAP-SMD_BD10.0-L10.3-W10.3-FD"
+		(property "Footprint" "MyParts:CAPAE1030X1250N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38398,7 +38398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38591,7 +38591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38773,7 +38773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38955,7 +38955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39137,7 +39137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39313,7 +39313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL"
+		(property "Footprint" "MyParts:SOP50P500X110-10N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39627,7 +39627,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MyParts:SAMTEC_FTSH-107-01-L-DV-K-A"
+		(property "Footprint" "MyParts:Samtec_FTSH-107-01-L-DV-K-A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40139,7 +40139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40369,7 +40369,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0805"
+		(property "Footprint" "MyParts:CAPC2012X145N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40599,7 +40599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0805"
+		(property "Footprint" "MyParts:CAPC2012X145N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40829,7 +40829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0805"
+		(property "Footprint" "MyParts:CAPC2012X145N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41061,7 +41061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C1206"
+		(property "Footprint" "MyParts:CAPC3216X180N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41266,7 +41266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:RJ45-TH_HR911130A"
+		(property "Footprint" "MyParts:HanRun_HR911130A"
 			(at 0 -46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45439,7 +45439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_7P-P1.27-V-F"
+		(property "Footprint" "MyParts:PinSocket_1x07_P1.27mm_Vertical"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45694,7 +45694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_HX-PM2.0-1X7P-ZC"
+		(property "Footprint" "MyParts:PinSocket_1x07_P2.00mm_Vertical"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45949,7 +45949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_2P-P2.54-V-M-3"
+		(property "Footprint" "MyParts:PinHeader_1x02_P2.54mm_Vertical"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46125,7 +46125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-SMD_10P-P2.54-V-M-R2-C5-LS7.5"
+		(property "Footprint" "MyParts:PinHeader_2x05_P2.54mm_Vertical_SMD"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46445,7 +46445,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_16P-P2.54-V-M-R2-C8-S2.54"
+		(property "Footprint" "MyParts:PinHeader_2x08_P2.54mm_Vertical"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46851,7 +46851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_16P-P2.54-V-M-R2-C8-S2.54"
+		(property "Footprint" "MyParts:PinHeader_2x08_P2.54mm_Vertical"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47257,7 +47257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_3P-P2.54-V-M-1"
+		(property "Footprint" "MyParts:PinHeader_1x03_P2.54mm_Vertical"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47440,7 +47440,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_4P-P2.54-V-M"
+		(property "Footprint" "MyParts:PinHeader_1x04_P2.54mm_Vertical"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47652,7 +47652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_4P-P2.54-V-M-R2-C2-S2.54-1"
+		(property "Footprint" "MyParts:PinHeader_2x02_P2.54mm_Vertical"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47853,7 +47853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_6P-P2.54-V-M-R2-C3-S2.54-1"
+		(property "Footprint" "MyParts:PinHeader_2x03_P2.54mm_Vertical"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48090,7 +48090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_16P-P2.54-V-M-R2-C8-S2.54"
+		(property "Footprint" "MyParts:PinHeader_2x08_P2.54mm_Vertical"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48507,7 +48507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L5.9-W7.5-P1.27-LS11.5-BL"
+		(property "Footprint" "MyParts:SOIC127P1150X280-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48793,7 +48793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL"
+		(property "Footprint" "MyParts:SOIC127P1030X265-16N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49214,7 +49214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L7.5-W5.9-P1.27-LS11.5-BL"
+		(property "Footprint" "MyParts:SOIC127P1150X280-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49498,7 +49498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49762,7 +49762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50046,7 +50046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50332,7 +50332,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-16_L10.3-W7.5-P1.27-LS10.3-BL"
+		(property "Footprint" "MyParts:SOIC127P1030X265-16N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50755,7 +50755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-20_L12.8-W7.5-P1.27-LS10.3-BL"
+		(property "Footprint" "MyParts:SOIC127P1030X355-20N"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51252,7 +51252,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CAP-SMD_BD6.3-L6.6-W6.6-FD"
+		(property "Footprint" "MyParts:CAPAE660X770N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51489,7 +51489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_7P-P2.54_KF128-2.54-7P"
+		(property "Footprint" "MyParts:KEFA_KF128-2.54-7P"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51755,7 +51755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_8P-P2.54_KF128-2.54-8P"
+		(property "Footprint" "MyParts:KEFA_KF128-2.54-8P"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52039,7 +52039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_10P-P2.54_KF2EDGR-2.54-10P"
+		(property "Footprint" "MyParts:KEFA_KF2EDGR-2.54-10P"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52359,7 +52359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_P2.54_KF2EDGR-2.54-2P"
+		(property "Footprint" "MyParts:KEFA_KF2EDGR-2.54-2P"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52513,7 +52513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_3P-P2.54_KF2EDGR-2.54-3P"
+		(property "Footprint" "MyParts:KEFA_KF2EDGR-2.54-3P"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52707,7 +52707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_4P-P2.54_KF2EDGR-2.54-4P"
+		(property "Footprint" "MyParts:KEFA_KF2EDGR-2.54-4P"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52919,7 +52919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_KF2EDGR-2.54-6P"
+		(property "Footprint" "MyParts:KEFA_KF2EDGR-2.54-6P"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53167,7 +53167,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_9P-P2.54_KF2EDGR-2.54-9P"
+		(property "Footprint" "MyParts:KEFA_KF2EDGR-2.54-9P"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53447,7 +53447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_2P-P5.08_KF2EDGR-5.08-2P"
+		(property "Footprint" "MyParts:KEFA_KF2EDGR-5.08-2P"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53623,7 +53623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_P7.62_KF7620-7.62-2P"
+		(property "Footprint" "MyParts:KEFA_KF7620-7.62-2P"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53799,7 +53799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-TH_8P-P2.00_KINGHELM_KH-2FH-1X8P-H4.3"
+		(property "Footprint" "MyParts:Kinghelm_KH-2FH-1X8P-H4.3"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54086,7 +54086,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:RJ45-KH-5224-8P8C"
+		(property "Footprint" "MyParts:Kinghelm_KH-5224-8P8C"
 			(at 0 -19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54483,7 +54483,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:RJ45-TH_KH-RJ45-58-8P8C"
+		(property "Footprint" "MyParts:Kinghelm_KH-RJ45-58-8P8C"
 			(at 0 -24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54803,7 +54803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:DFN-6_L3.0-W3.0-P0.95-LS3.1-TL-EP"
+		(property "Footprint" "MyParts:SON95P300X300X100-7N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55058,7 +55058,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HTSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL-EP"
+		(property "Footprint" "MyParts:SOP65P640X120-21N"
 			(at 0 -35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55565,7 +55565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55849,7 +55849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56135,7 +56135,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+		(property "Footprint" "MyParts:SOT95P280X145-6N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56372,7 +56372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:RJ45-TH_LPJG0926HENL_C22457393"
+		(property "Footprint" "MyParts:LINK-PP_LPJG0926HENL"
 			(at 0 -29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56864,7 +56864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:L0402-RD"
+		(property "Footprint" "MyParts:INDC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57099,7 +57099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SC-70-6_L2.2-W1.3-P0.65-LS2.2-BL"
+		(property "Footprint" "MyParts:SOT65P210X110-6N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57331,7 +57331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LED-SMD_L1.7-W0.6-RD"
+		(property "Footprint" "MyParts:LiteOn_LTST-S270"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57535,7 +57535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:OPTO-SMD-4_L4.6-W6.5-P2.54-LS10.3-BL"
+		(property "Footprint" "MyParts:SOP254P1016X460-4N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57846,7 +57846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMD-8_L9.8-W6.6-P2.54-LS10.3-BL"
+		(property "Footprint" "MyParts:SOP254P1016X460-8N"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58361,7 +58361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMD-16_L20.0-W6.5-P2.54-LS10.2-BL"
+		(property "Footprint" "MyParts:SOP254P1016X460-16N"
 			(at 0 -21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59114,7 +59114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59387,7 +59387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMD-18_L10.1-W9.7-P1.10-TL_SKG09F"
+		(property "Footprint" "MyParts:u-blox_MAX-M10S"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59843,7 +59843,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1812"
+		(property "Footprint" "MyParts:FUSC4532X200N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60026,7 +60026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1210"
+		(property "Footprint" "MyParts:FUSC3225X110N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60209,7 +60209,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MyParts:ML414H-IV01E"
+		(property "Footprint" "MyParts:Seiko_ML414H-IV01E"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60473,7 +60473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:QFN-8_L2.0-W1.5-P0.50-BL"
+		(property "Footprint" "MyParts:SON50P150X200X90-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60740,7 +60740,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MyParts:BAT_MS621FE-FL11E"
+		(property "Footprint" "MyParts:Seiko_MS621FE-FL11E"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60993,7 +60993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias"
+		(property "Footprint" "MyParts:QFN50P400X400X80-25N"
 			(at 0 -35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61563,7 +61563,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61847,7 +61847,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BL-2"
+		(property "Footprint" "MyParts:SOT95P240X110-3N"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62246,7 +62246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CRYSTAL-SMD_4P-L2.0-W1.6-BL"
+		(property "Footprint" "MyParts:OSCCC200X160X50-4N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62495,7 +62495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:D0402-BI"
+		(property "Footprint" "MyParts:DIOC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62685,7 +62685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+		(property "Footprint" "MyParts:SOT95P240X110-3N"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63013,7 +63013,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-F-TH_2x09-P2.54-H8.5_PM254_NOPADS"
+		(property "Footprint" "MyParts:HCTL_PM254-2-09-Z-8.5_NOPADS"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63142,7 +63142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-F-TH_2x12-P2.54-H8.5_PM254_NOPADS"
+		(property "Footprint" "MyParts:HCTL_PM254-2-12-Z-8.5_NOPADS"
 			(at 0 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63271,7 +63271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:HDR-TH_12P-P2.54-V-M-R2-C6-S2.54_MOLEX"
+		(property "Footprint" "MyParts:PinHeader_2x06_P2.54mm_Vertical"
 			(at 0 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63611,7 +63611,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:TESTPOINT-SMD_L3.0-W2.0"
+		(property "Footprint" "MyParts:Ronghe_RH-5016"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63769,7 +63769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R2512"
+		(property "Footprint" "MyParts:RESC6332X70N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63934,7 +63934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:MOD-TH_ROBOCLAW-OEM-2X15A"
+		(property "Footprint" "MyParts:Basicmicro_RoboClaw-2x15A-OEM"
 			(at 0 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64432,7 +64432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64605,7 +64605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64788,7 +64788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64983,7 +64983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65170,7 +65170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0402"
+		(property "Footprint" "MyParts:RESC1005X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65335,7 +65335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:R0603"
+		(property "Footprint" "MyParts:RESC1608X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65508,7 +65508,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D"
+		(property "Footprint" "MyParts:CAPMP7343X310N"
 			(at 0.9652 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65743,7 +65743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:DIO-SMD_2P-L1.0-W0.6-P0.65-RD"
+		(property "Footprint" "MyParts:DIOC1006X40N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65945,7 +65945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:DFN-4_L1.5-W1.5-P0.8-TL-EP"
+		(property "Footprint" "MyParts:SON80P150X150X59-5N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66168,7 +66168,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:PG-TDSON-8_L5.0-W6.0-P1.27-LS6.2-BL-EP"
+		(property "Footprint" "MyParts:SON127P615X515X120-9N"
 			(at 0 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66609,7 +66609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN"
+		(property "Footprint" "MyParts:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
 			(at 0 -3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66829,7 +66829,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "MyParts:JST_SM04B-SRSS-TB_LF__SN_"
+		(property "Footprint" "MyParts:JST_SM04B-SRSS-TB_S1S2"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67166,7 +67166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMA-TH_SMA-KWE_C7498154"
+		(property "Footprint" "MyParts:LX_SMA-KWE"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67451,7 +67451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:D_SMA"
+		(property "Footprint" "MyParts:DIOM5226X244N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67637,7 +67637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMB_L4.6-W3.6-LS5.3-RD"
+		(property "Footprint" "MyParts:DIOM5436X244N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67802,7 +67802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:D_SMB"
+		(property "Footprint" "MyParts:DIOM5436X244N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67994,7 +67994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMB_L4.6-W3.6-LS5.3-RD"
+		(property "Footprint" "MyParts:DIOM5436X244N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68181,7 +68181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:SMB_L4.3-W3.6-LS5.4-BI"
+		(property "Footprint" "MyParts:DIOM5436X244N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68381,7 +68381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:D_SMB"
+		(property "Footprint" "MyParts:DIOM5436X244N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68567,7 +68567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMC_L6.9-W5.9-LS7.9-RD"
+		(property "Footprint" "MyParts:DIOM7959X262N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68734,7 +68734,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMC_L7.1-W6.2-LS8.1-RD"
+		(property "Footprint" "MyParts:DIOM7959X262N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68912,7 +68912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMC_L7.1-W6.2-LS8.1-RD"
+		(property "Footprint" "MyParts:DIOM7959X262N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69090,7 +69090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyPartsIPC:FUSC1608X100N"
+		(property "Footprint" "MyParts:FUSC1608X100N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69270,7 +69270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyPartsIPC:FUSC1608X100N"
+		(property "Footprint" "MyParts:FUSC1608X100N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69447,7 +69447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyPartsIPC:FUSC1608X100N"
+		(property "Footprint" "MyParts:FUSC1608X100N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69624,7 +69624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1812"
+		(property "Footprint" "MyParts:FUSC4532X200N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69809,7 +69809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:D_SOD-123FL"
+		(property "Footprint" "MyParts:SODFL3718X110N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69997,7 +69997,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:D_SOD-123FL"
+		(property "Footprint" "MyParts:SODFL3718X110N"
 			(at -1.778 0 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70177,7 +70177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:IND-SMD_L6.0-W6.0_SMNR6045"
+		(property "Footprint" "MyParts:INDM6060X450N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70404,7 +70404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:FILTER-SMD_4P-L2.0-W1.2-BL"
+		(property "Footprint" "MyParts:Sunltech_SMW2012B"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70747,7 +70747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71031,7 +71031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL"
+		(property "Footprint" "MyParts:SOP65P640X120-16N"
 			(at 0 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71448,7 +71448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:PDFN-8_L6.0-W5.0-P1.27_HGQ065NE4A"
+		(property "Footprint" "MyParts:SON127P600X500X110-9N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71739,7 +71739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:IND-SMD_L6.0-W6.0"
+		(property "Footprint" "MyParts:INDM6060X450N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71985,7 +71985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:IND-SMD_L7.3-W6.6_SRP7028A"
+		(property "Footprint" "MyParts:INDM7366X280N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72231,7 +72231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SW-TH_SS-12F45-GXXX"
+		(property "Footprint" "MyParts:G-Switch_SS-12F49-G050"
 			(at 0 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72665,7 +72665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SW-TH_SS-22F04-G050"
+		(property "Footprint" "MyParts:G-Switch_SS-22F04-G050"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73108,7 +73108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMA_L4.2-W2.6-LS5.0-RD_1"
+		(property "Footprint" "MyParts:DIOM5226X244N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73286,7 +73286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMA_L4.3-W2.6-LS5.2-RD"
+		(property "Footprint" "MyParts:DIOM5226X244N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73464,7 +73464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMA_L4.3-W2.6-LS5.2-RD"
+		(property "Footprint" "MyParts:DIOM5226X244N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73632,7 +73632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMC_L7.1-W6.2-LS8.1-RD"
+		(property "Footprint" "MyParts:DIOM7959X262N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73816,7 +73816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyPartsIPC:DIOM5226X244N"
+		(property "Footprint" "MyParts:DIOM5226X244N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73994,7 +73994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
+		(property "Footprint" "MyParts:QFP50P900X900X160-48N"
 			(at 0 -36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -74976,7 +74976,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LQFP-32_L7.0-W7.0-P0.80-LS9.0-BL"
+		(property "Footprint" "MyParts:QFP80P900X900X160-32N"
 			(at 0 -26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -75670,7 +75670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
+		(property "Footprint" "MyParts:QFP50P900X900X160-48N"
 			(at 0 -36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76652,7 +76652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
+		(property "Footprint" "MyParts:QFP50P900X900X160-48N"
 			(at 0 -36.83 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -77656,7 +77656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LQFP-64_L10.0-W10.0-P0.50-LS12.0-BL"
+		(property "Footprint" "MyParts:QFP50P1200X1200X160-64N"
 			(at 0 -46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -78948,7 +78948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SMA_L4.3-W2.6-LS5.2-RD"
+		(property "Footprint" "MyParts:DIOM5226X244N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -79104,7 +79104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "MyParts:SOIC127P600X175-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -79383,7 +79383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0402"
+		(property "Footprint" "MyParts:CAPC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -79613,7 +79613,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C0603"
+		(property "Footprint" "MyParts:CAPC1608X95N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -79832,7 +79832,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:C1206"
+		(property "Footprint" "MyParts:CAPC3216X180N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80045,7 +80045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:IND-SMD_L13.8-W12.6_MHCC12050"
+		(property "Footprint" "MyParts:INDM135125X650N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80247,7 +80247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:USON-10_L2.5-W1.0-P0.50-BL"
+		(property "Footprint" "MyParts:SON50P100X250X60-10N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80578,7 +80578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:DFN-10_L2.5-W1.0-P0.50-BL-A"
+		(property "Footprint" "MyParts:SON50P100X250X60-10N"
 			(at 0 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81458,7 +81458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:D0402-BI"
+		(property "Footprint" "MyParts:DIOC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81635,7 +81635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:D0402-BI"
+		(property "Footprint" "MyParts:DIOC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -81822,7 +81822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:D0402-BI"
+		(property "Footprint" "MyParts:DIOC1005X55N"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -82038,7 +82038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MyParts:HTSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL-EP2.5"
+		(property "Footprint" "MyParts:SOP65P640X120-17N"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -82475,7 +82475,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR"
+		(property "Footprint" "MyParts:SOT95P280X145-6N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -82704,7 +82704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "MyParts:SOT95P280X145-5N"
 			(at 0 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -82937,7 +82937,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:USB-C_SMD-TYPE-C-31-M-12_1"
+		(property "Footprint" "MyParts:HRO_TYPE-C-31-M-12"
 			(at 0 -21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83354,7 +83354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SQFN-36_L6.0-W6.0-P0.50-BL-EP"
+		(property "Footprint" "MyParts:QFN50P600X600X100-37N"
 			(at 13.97 -30.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84160,7 +84160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL"
+		(property "Footprint" "MyParts:SOIC127P790X216-8N"
 			(at 0 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84446,7 +84446,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:CRYSTAL-SMD_4P-L3.2-W2.5-BL"
+		(property "Footprint" "MyParts:OSCCC320X250X80-4N"
 			(at 0 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84799,7 +84799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:FUSE-TH_L22.6-W9.0"
+		(property "Footprint" "MyParts:Xucheng_XC-7_5x20"
 			(at 0 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -85039,7 +85039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:LED0805-R-RD"
+		(property "Footprint" "MyParts:LEDC2012X110N"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -85265,7 +85265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MyParts:F1206"
+		(property "Footprint" "MyParts:FUSC3216X110N"
 			(at 0 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
